@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,400;1,700&display=swap');
+body{
+    margin: 0;
+}
+.top img{
+    width: 100%;
+}
+.top p{
+    color:black;
+    font-size: 25px;
+    font-family: poppins;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.adjust{
+    text-align: center;
+}
+.bottom img{
+    width: 80px;
+    margin-left: 10px;
+}
+.bottom{
+    background-color:#FFBC42;
+    text-align: center;
+    height: 50%;
+}
+.bottom h1{
+    color: #0D3B66;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Poppins;
+}
+.user-input{
+  margin-top: 20px;
+  width: 300px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 30px;
+  color: #1f2933;
+  padding: 10px;
+  text-align: center;
+}
+.check-guess {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    width: 170px;
+    font-weight: bold;
+    font-family: poppins;
+    border-width: 0px;
+    color:white;
+    background-color:#16BAC5;
+}
+.game-result {
+    font-family: "poppins";
+    font-weight: 500;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px;
+}
+   
